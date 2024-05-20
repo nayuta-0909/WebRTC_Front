@@ -5,7 +5,7 @@ import * as webRTCHandler from "../webRTC/webRTCHandler";
 import * as webRTCGroupCallHandler from "../webRTC/webRTCGroupCallHandler";
 
 // HERE PLACE ADDRESS OF YOUR HOSTED BACKEND SERVER
-const SERVER = "https://video-talker-backend-udemy2.herokuapp.com/";
+const SERVER = "https://webrtc-server-4aow.onrender.com";
 
 const broadcastEventTypes = {
   ACTIVE_USERS: "ACTIVE_USERS",
