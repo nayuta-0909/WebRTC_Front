@@ -1,3 +1,4 @@
 WebRTCを使ったWeb会議のデモアプリ
 
-https://test-5swd.onrender.com
+WebRTCの勉強で作成しました
+アプリのリンク(https://test-5swd.onrender.com)
